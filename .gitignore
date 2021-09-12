@@ -1,0 +1,7 @@
+*.o
+*.log
+*.d
+
+client/Debug/client
+
+server/Debug/server
